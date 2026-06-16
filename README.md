@@ -2,9 +2,6 @@
 
 ### A budding Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruvvvS&label=Profile views&color=0e75b6&style=flat" alt="DhruvvvS" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DhruvvvS" alt="DhruvvvS" /></a> </p>
 
 - 🔭 I'm currently working on **a PANDAS and NumPy Project**
 
