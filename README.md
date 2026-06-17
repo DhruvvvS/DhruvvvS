@@ -1,32 +1,24 @@
-# Hi 👋, I'm Dhruv Shah
+# Hi, I'm Dhruv Shah
 
-### A budding Python developer
+Python Developer focused on data analysis and machine learning fundamentals.
 
+## About Me
+- Working on a project using Pandas and NumPy for data cleaning and analysis
+- Currently learning NumPy (advanced) and PySpark
+- Open to collaborating on open-source data/ML projects
+- Ask me about: C, Python, Pandas, NumPy, PyQt5
 
-- 🔭 I'm currently working on **a PANDAS and NumPy Project**
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🌱 I'm currently learning **NumPy and PySpark**
+## GitHub Stats
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvvvS&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvvvS&layout=compact)
 
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 🤝 I'm looking for help with **learning ML**
-
-- 💬 Ask me about **C, Python, Pandas, NumPy and PyQt5**
-
-- 📫 How to reach me **dhruvsh396@gmail.com**
-
-- ⚡ Fun fact **I am an sports enthusiast.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/DhruvvvS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DhruvvvS" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-shah-ba8840319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-shah-ba8840319/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvvvS&show_icons=true&locale=en&layout=compact" alt="DhruvvvS" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvvvS&show_icons=true&locale=en" alt="DhruvvvS" /></p>
-
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-shah-ba8840319/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvsh396@gmail.com)
